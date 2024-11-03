@@ -53,6 +53,7 @@ The trained RandomForest model was saved as `fraud_detection_model.joblib` using
 
 ## Visualization
 A heatmap of the confusion matrix was generated to illustrate the model's performance.
+![Confusion Matrix](confusion_matrix.png)
 
 ## Deployment
 The saved model can be integrated into a real-time system to identify and flag potential fraudulent transactions based on incoming data.
